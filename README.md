@@ -31,3 +31,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Setup Knockout UserList, UserForm, GroupList, GroupForm components
 - Integration of ko with vue
 
+## Reference articles
+https://corstianboerman.com/2019-06-18/integrating-knockoutjs-into-vuejs.html
+
