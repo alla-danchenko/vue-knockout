@@ -2,7 +2,7 @@
 [![vue.js](https://img.shields.io/badge/vue.js-2.6.11-brightgreen)](https://github.com/vuejs/vue)
 [![vue.js](https://img.shields.io/badge/knockout-3.5.1-brightgreen)](https://github.com/knockout/knockout)
 
-Project ro review embedding Knockout component within Vue app
+Project to review embedding Knockout component within Vue app
 
 ## Project setup
 ```
@@ -26,9 +26,9 @@ npm run lint
 
 ## Goals to achieve
 - Done: Setup Vue-Knockout demo admin app: main SPA, basic html markup and routing
-- Done: Setup simple Knockout 'About' component integrated into Vue app
+- Done: Setup simple Knockout `About` component integrated into Vue app
 - Done: Setup Knockout Userlist component integrated into Vue app
-- Done: Setup Vue component for prevew form called from Knockout
+- Done: Setup Vue component for preview form called from Knockout
 - TODO: Save data in Vue form and emit changes to Knockout parent component.
 - TODO: introduce Ko binding handler for third party libraries
 
