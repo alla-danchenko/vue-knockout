@@ -27,5 +27,9 @@ npm run lint
 - Setup more complex Knockout Userlist component integrated into Vue app
 
 ## Reference articles
-https://corstianboerman.com/2019-06-18/integrating-knockoutjs-into-vuejs.html
+- https://corstianboerman.com/2019-06-18/integrating-knockoutjs-into-vuejs.html
+- https://stackoverflow.com/questions/51951020/use-knockout-js-on-the-same-page-as-vue-js
+- https://css-tricks.com/creating-vue-js-component-instances-programmatically/
+- https://vuejs.org/v2/api/#propsData
+- https://forum.vuejs.org/t/direct-instantiation-of-the-vue-components-what-is-a-right-way/40745
 

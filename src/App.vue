@@ -2,7 +2,7 @@
   <div id="app">
       <b-navbar type="dark" variant="dark">
         <b-navbar-brand>
-            <span class="d-none d-md-inline">Vue + Knockout Admin</span>
+            <span class="d-none d-md-inline">[Vue - Knockout - Vue]  Admin</span>
         </b-navbar-brand>
       </b-navbar>
         <div class="container-fluid">
@@ -27,22 +27,8 @@
 </template>
 
 <script>
-// import KnockoutFrame from './components/KnockoutFrame.vue'
-// import {Component} from './ko-components/ko-component';
-
-// const koComponent = new Component();
-// console.log(koComponent);
-
 export default {
-  name: 'App',
-  /*data() {
-    return {
-      component: koComponent
-    }
-  },*/
-  components: {
-   // KnockoutFrame
-  }
+  name: 'App'
 }
 </script>
 
