@@ -26,10 +26,9 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ## Goals to achieve
-- Setup Webpack configuration
-- Setup Vue admin app: main SPA, html markup and routing
-- Setup Knockout UserList, UserForm, GroupList, GroupForm components
-- Integration of ko with vue
+- Done: Setup Vue-Knockout demo admin app: main SPA, basic html markup and routing
+- Done: Setup simple Knockout 'About' component integrated into Vue app
+- Setup more complex Knockout Userlist component integrated into Vue app
 
 ## Reference articles
 https://corstianboerman.com/2019-06-18/integrating-knockoutjs-into-vuejs.html
