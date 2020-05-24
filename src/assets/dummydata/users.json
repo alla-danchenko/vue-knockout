@@ -1,0 +1,47 @@
+{
+  "users": [{
+    "id": "15e2ca20-535d-4949-82fd-f9c1debdd056",
+    "username": "Camprow",
+    "password": "EeDu9Eij0",
+    "email": "NancyTHuggins@jourrapide.com",
+    "firstName": "Nancy",
+    "lastName": "Huggins",
+    "geoCoordinates": "50.470744, -4.530264",
+    "birthday": "November 13, 1996",
+    "address": ""
+  },
+    {
+      "id": "a3c562bf-39b8-4982-a68d-4c8707bd6d40",
+      "username": "Oace1951",
+      "password": "buy9shei3K",
+      "email": "BrandonPritchard@rhyta.com",
+      "firstName": "Brandon",
+      "lastName": "Pritchard",
+      "geoCoordinates": "53.644271, -1.508729",
+      "birthday": "February 28, 1951",
+      "address": "21 Preston Rd MORLEY DL14 8BT"
+    },
+    {
+      "id": "35fade356e65-442b-a5d0-bbc110efad2c",
+      "username": "Busbar",
+      "password": "AeH0agahqu",
+      "email": "FinleyBryan@rhyta.com",
+      "firstName": "Finley",
+      "lastName": "Bryan",
+      "geoCoordinates": "56.946651, -3.859776",
+      "birthday": "May 18, 1997",
+      "address": "84 Circle Way CAGGAN PH22 8GE"
+    },
+    {
+      "id": "b67906a4-de05-40ca-b737-ead4a77eb19e",
+      "username": "Blaway",
+      "password": "woohiex1AeC",
+      "email": "TobyWatson@jourrapide.com",
+      "firstName": "Toby",
+      "lastName": "Watson",
+      "geoCoordinates": "54.874781, -3.179532",
+      "birthday": "September 28, 1950",
+      "address": "55 Front Street LAGRAE DG4 2JB"
+    }
+  ]
+}
