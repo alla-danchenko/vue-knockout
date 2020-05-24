@@ -21,10 +21,6 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-
-
 ## Goals to achieve
 - Done: Setup Vue-Knockout demo admin app: main SPA, basic html markup and routing
 - Done: Setup simple Knockout 'About' component integrated into Vue app
