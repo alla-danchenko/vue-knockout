@@ -1,4 +1,7 @@
 # vue-knockout
+[![vue.js](https://img.shields.io/badge/vue.js-2.6.11-brightgreen)](https://github.com/vuejs/vue)
+[![vue.js](https://img.shields.io/badge/knockout-3.5.1-brightgreen)](https://github.com/knockout/knockout)
+
 Project ro review embedding Knockout component within Vue app
 
 ## Project setup
