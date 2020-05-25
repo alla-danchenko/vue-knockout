@@ -34,7 +34,7 @@ npm run lint
 - [ ] Save data in Vue form and emit changes to Knockout parent component.
 - [ ] Introduce Ko binding handler for third party libraries
 - [ ] Bypass Vue router from Ko to dynamic Vue component
-- [ ] Implement emit data from child to parent component
+- [ ] Use ko binding
 
 ## Reference articles
 - https://corstianboerman.com/2019-06-18/integrating-knockoutjs-into-vuejs.html
