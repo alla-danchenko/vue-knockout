@@ -33,7 +33,6 @@ npm run lint
 - [x] Setup Vue component for preview form called from Knockout
 - [ ] Save data in Vue form and emit changes to Knockout parent component.
 - [ ] Introduce Ko binding handler for third party libraries
-- [ ] Bypass Vue router from Ko to dynamic Vue component
 - [ ] Use ko binding
 
 ## Reference articles
