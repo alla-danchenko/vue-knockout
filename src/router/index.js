@@ -6,6 +6,7 @@ import About from '../components/About';
 Vue.use(VueRouter)
 
 export default new VueRouter({
+  base: "/vue-knockout/",
   mode: 'history',
   routes:[
     {
