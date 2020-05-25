@@ -8,11 +8,16 @@ export class KoUserlist    {
     this.summary = ko.observable('This page demonstrates hierarchy: Vue-Vue-Ko.');
     this.userList = ko.observableArray(data.users);
     this.isEditMode = ko.observable(false);
+
+    this.cancelForm = () =>{
+      this.isEditMode(false);
+    }
+
     const vueUserDetailsComponent = Vue.extend(UserDetails);
     this.openEditForm = (value) => {
       console.log(value);
       this.isEditMode(true);
-      new vueUserDetailsComponent({el: '#edit-user-form', propsData: { user: value }});
+      new vueUserDetailsComponent({el: '#edit-user-form', propsData: { user: value, cancel: this.cancelForm }});
     };
   }
 

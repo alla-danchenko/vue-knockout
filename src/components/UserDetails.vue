@@ -36,7 +36,7 @@
                 <small id="emailAddress" class="form-text text-muted">We'll never share your address with anyone else.</small>
             </div>
             <input type="text" readonly hidden v-model="userData.id">
-            <button type="cancel" class="btn btn-secondary pull-right">Cancel</button>
+            <button type=button @click.prevent="onCancel" >Cancel</button>
         </form>
     </div>
 </template>
@@ -44,23 +44,17 @@
 <script>
   export default {
     name: "UserDetails",
-    props: {
-      user:{
-        "id": {type: String},
-        "username": {type: String},
-        "password": {type: String},
-        "email": {type: String},
-        "firstName": {type: String},
-        "lastName": {type: String},
-        "geoCoordinates": {type: String},
-        "birthday": {type: String},
-        "address": {type: String}
-      }
-    },
+    props: ['user', 'cancel'],
     data() {
       console.log(this.user);
       return {
         userData: this.user
+      }
+    },
+    methods: {
+      onCancel(){
+        console.log('CANCEL SUBMIT');
+        this.cancel();
       }
     }
   }
