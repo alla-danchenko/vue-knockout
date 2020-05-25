@@ -2,7 +2,9 @@
 [![vue.js](https://img.shields.io/badge/vue.js-2.6.11-brightgreen)](https://github.com/vuejs/vue)
 [![vue.js](https://img.shields.io/badge/knockout-3.5.1-brightgreen)](https://github.com/knockout/knockout)
 
-Project to review embedding Knockout component within Vue app
+Project to review embedding Knockout component within Vue app.
+
+[Demo](https://alla-danchenko.github.io/vue-knockout/)
 
 ## Project setup
 ```
