@@ -25,12 +25,12 @@ npm run lint
 ```
 
 ## Goals to achieve
-- Done: Setup Vue-Knockout demo admin app: main SPA, basic html markup and routing
-- Done: Setup simple Knockout `About` component integrated into Vue app
-- Done: Setup Knockout Userlist component integrated into Vue app
-- Done: Setup Vue component for preview form called from Knockout
-- TODO: Save data in Vue form and emit changes to Knockout parent component.
-- TODO: introduce Ko binding handler for third party libraries
+- [x] Setup Vue-Knockout demo admin app: main SPA, basic html markup and routing
+- [x] Setup simple Knockout `About` component integrated into Vue app
+- [x] Setup Knockout Userlist component integrated into Vue app
+- [x] Setup Vue component for preview form called from Knockout
+- [ ] Save data in Vue form and emit changes to Knockout parent component.
+- [ ] Introduce Ko binding handler for third party libraries
 
 ## Reference articles
 - https://corstianboerman.com/2019-06-18/integrating-knockoutjs-into-vuejs.html
